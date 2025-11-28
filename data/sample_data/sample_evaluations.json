@@ -1,0 +1,185 @@
+[
+  {
+    "candidate_id": "candidate_001",
+    "job_id": "job_001",
+    "evaluation_id": "eval_001",
+    "overall_score": 91.5,
+    "skills_evaluation": {
+      "overall_match_percentage": 92.0,
+      "required_skills_match": 95.0,
+      "preferred_skills_match": 85.0,
+      "matched_skills": [
+        "Python",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Microservices"
+      ],
+      "missing_skills": [],
+      "transferable_skills": [
+        "React experience from previous role"
+      ],
+      "bonus_skills": [
+        "Redis",
+        "PostgreSQL"
+      ],
+      "skills_breakdown": {},
+      "experience_match": null,
+      "rationale": "Candidate demonstrates exceptional technical skills with 6+ years of relevant experience. Strong match on all required skills with proven expertise in cloud architecture and microservices.",
+      "strengths": [
+        "Deep experience with AWS and Kubernetes",
+        "Leadership and mentoring experience",
+        "Proven track record of performance optimization"
+      ],
+      "gaps": [],
+      "confidence_score": 0.95
+    },
+    "cultural_evaluation": {
+      "overall_cultural_fit_score": 88.0,
+      "dimensional_scores": {
+        "Collaboration": 0.9,
+        "Innovation": 0.85,
+        "Fast-paced": 0.88,
+        "Flat": 0.87,
+        "Mission-driven": 0.85
+      },
+      "detailed_dimensions": [],
+      "rationale": "Strong cultural alignment. Background shows preference for collaborative, fast-paced startup environments with focus on innovation and technical excellence.",
+      "evidence": [
+        "Worked in startup environments",
+        "Led cross-functional initiatives",
+        "Open source contributions show community engagement"
+      ],
+      "alignment_areas": [
+        "Team collaboration",
+        "Innovation focus",
+        "Technical excellence"
+      ],
+      "potential_concerns": [],
+      "interview_discussion_points": [
+        "Career growth expectations",
+        "Team leadership style"
+      ],
+      "confidence_score": 0.88
+    },
+    "experience_score": 95.0,
+    "education_score": null,
+    "recommendation": "strong_match",
+    "tier": "strong_match",
+    "executive_summary": "Exceptional candidate with strong technical skills and excellent cultural fit. Highly recommended for immediate interview.",
+    "key_highlights": [
+      "8 years of relevant software engineering experience",
+      "Strong AWS and Kubernetes expertise",
+      "Proven leadership and mentoring capabilities",
+      "Excellent cultural fit for collaborative, fast-paced environment"
+    ],
+    "concerns": [],
+    "recommended_next_steps": [
+      "Schedule technical interview",
+      "Arrange team meet-and-greet"
+    ],
+    "interview_focus_areas": [
+      "System design capabilities",
+      "Leadership experience",
+      "Long-term career goals"
+    ],
+    "evaluated_at": "2025-11-28 10:25:57.014490",
+    "evaluated_by": null,
+    "processing_time_seconds": null,
+    "weights": null
+  },
+  {
+    "candidate_id": "candidate_002",
+    "job_id": "job_001",
+    "evaluation_id": "eval_002",
+    "overall_score": 76.0,
+    "skills_evaluation": {
+      "overall_match_percentage": 78.0,
+      "required_skills_match": 75.0,
+      "preferred_skills_match": 70.0,
+      "matched_skills": [
+        "Python",
+        "Docker"
+      ],
+      "missing_skills": [
+        "AWS",
+        "Kubernetes",
+        "Microservices"
+      ],
+      "transferable_skills": [
+        "Container experience with Docker"
+      ],
+      "bonus_skills": [],
+      "skills_breakdown": {},
+      "experience_match": null,
+      "rationale": "Solid foundational skills but lacks some key requirements. Has 3.5 years experience which is below the 5-year requirement. Missing critical cloud and orchestration experience.",
+      "strengths": [
+        "Strong Python skills",
+        "Docker experience"
+      ],
+      "gaps": [
+        "Limited AWS experience",
+        "No Kubernetes experience",
+        "Less experience than required"
+      ],
+      "confidence_score": 0.82
+    },
+    "cultural_evaluation": {
+      "overall_cultural_fit_score": 72.0,
+      "dimensional_scores": {
+        "Collaboration": 0.75,
+        "Innovation": 0.7,
+        "Fast-paced": 0.72,
+        "Flat": 0.68,
+        "Mission-driven": 0.75
+      },
+      "detailed_dimensions": [],
+      "rationale": "Reasonable cultural fit with some areas to explore. Limited information on work style preferences and collaboration patterns.",
+      "evidence": [
+        "Worked in mid-size company",
+        "Backend development focus"
+      ],
+      "alignment_areas": [
+        "Technical focus"
+      ],
+      "potential_concerns": [
+        "Limited startup experience",
+        "Unclear collaboration style"
+      ],
+      "interview_discussion_points": [
+        "Work style preferences",
+        "Learning agility",
+        "Interest in cloud technologies"
+      ],
+      "confidence_score": 0.7
+    },
+    "experience_score": 70.0,
+    "education_score": null,
+    "recommendation": "moderate_match",
+    "tier": "moderate_match",
+    "executive_summary": "Promising candidate with solid foundation but notable skill gaps. Recommend recruiter review to assess growth potential and learning ability.",
+    "key_highlights": [
+      "3.5 years of software development experience",
+      "Strong Python and Docker skills",
+      "Growth potential"
+    ],
+    "concerns": [
+      "Below required experience level",
+      "Missing AWS and Kubernetes experience",
+      "Limited system design experience"
+    ],
+    "recommended_next_steps": [
+      "Recruiter phone screen",
+      "Assess learning agility and motivation"
+    ],
+    "interview_focus_areas": [
+      "Learning experiences",
+      "Interest in cloud technologies",
+      "Career goals"
+    ],
+    "evaluated_at": "2025-11-28 10:25:57.014502",
+    "evaluated_by": null,
+    "processing_time_seconds": null,
+    "weights": null
+  }
+]

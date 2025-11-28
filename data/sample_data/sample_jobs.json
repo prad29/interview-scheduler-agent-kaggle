@@ -1,0 +1,204 @@
+[
+  {
+    "id": "job_001",
+    "title": "Senior Software Engineer",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "work_location_type": "hybrid",
+    "employment_type": "full_time",
+    "experience_level": "senior",
+    "description": "We are looking for a Senior Software Engineer to join our platform team. You will work on building scalable microservices and leading technical initiatives.",
+    "responsibilities": [
+      "Design and develop scalable applications using modern technologies",
+      "Lead technical discussions and architecture decisions",
+      "Mentor junior developers and conduct code reviews",
+      "Collaborate with product and design teams",
+      "Contribute to engineering best practices and standards"
+    ],
+    "requirements": {
+      "required_skills": [
+        "Python",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Microservices"
+      ],
+      "preferred_skills": [
+        "React",
+        "TypeScript",
+        "CI/CD",
+        "GraphQL",
+        "PostgreSQL"
+      ],
+      "required_experience_years": 5,
+      "required_education": "Bachelor's degree in Computer Science or related field",
+      "preferred_certifications": [
+        "AWS Certified Solutions Architect"
+      ],
+      "language_requirements": [
+        {
+          "language": "English",
+          "level": "Fluent"
+        }
+      ]
+    },
+    "salary_min": 120000.0,
+    "salary_max": 180000.0,
+    "salary_currency": "USD",
+    "compensation_range": "$120k-$180k",
+    "benefits": [
+      "Competitive salary and equity",
+      "Comprehensive health insurance",
+      "401(k) matching",
+      "Unlimited PTO",
+      "Remote work flexibility",
+      "Professional development budget"
+    ],
+    "company_name": "TechCorp Inc.",
+    "company_description": "Leading technology company building innovative solutions",
+    "company_culture": {
+      "values": [
+        "Innovation",
+        "Collaboration",
+        "Integrity",
+        "Customer Focus"
+      ],
+      "work_style": "Collaborative with autonomy",
+      "team_size": 12,
+      "pace": "Fast-paced",
+      "innovation_focus": true,
+      "collaboration_level": "high",
+      "hierarchy": "flat",
+      "mission_driven": true
+    },
+    "team_description": "Platform engineering team responsible for core infrastructure",
+    "growth_opportunities": [
+      "Tech lead positions",
+      "Architecture roles",
+      "Management track"
+    ],
+    "reporting_to": "Engineering Manager",
+    "direct_reports": null,
+    "status": "active",
+    "posted_date": "2025-11-28 10:25:57.010019",
+    "closing_date": null,
+    "created_by": null,
+    "hiring_manager": "hiring.manager@techcorp.com",
+    "total_applications": 0
+  },
+  {
+    "id": "job_002",
+    "title": "Senior Product Manager",
+    "department": "Product",
+    "location": "Remote",
+    "work_location_type": "remote",
+    "employment_type": "full_time",
+    "experience_level": "senior",
+    "description": "We're seeking an experienced Product Manager to drive product strategy and execution.",
+    "responsibilities": [
+      "Define product vision and roadmap",
+      "Gather and prioritize product requirements",
+      "Work closely with engineering and design",
+      "Analyze metrics and user feedback",
+      "Lead product launches"
+    ],
+    "requirements": {
+      "required_skills": [
+        "Product Management",
+        "Roadmap Planning",
+        "Stakeholder Management",
+        "Data Analysis"
+      ],
+      "preferred_skills": [
+        "B2B SaaS",
+        "Agile",
+        "SQL",
+        "A/B Testing"
+      ],
+      "required_experience_years": 5,
+      "required_education": "Bachelor's degree",
+      "preferred_certifications": [],
+      "language_requirements": [
+        {
+          "language": "English",
+          "level": "Fluent"
+        }
+      ]
+    },
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "compensation_range": "$130k-$170k",
+    "benefits": [],
+    "company_name": "TechCorp Inc.",
+    "company_description": null,
+    "company_culture": null,
+    "team_description": null,
+    "growth_opportunities": [],
+    "reporting_to": null,
+    "direct_reports": null,
+    "status": "active",
+    "posted_date": "2025-11-28 10:25:57.010038",
+    "closing_date": null,
+    "created_by": null,
+    "hiring_manager": null,
+    "total_applications": 0
+  },
+  {
+    "id": "job_003",
+    "title": "Data Scientist",
+    "department": "Data Science",
+    "location": "New York, NY",
+    "work_location_type": "hybrid",
+    "employment_type": "full_time",
+    "experience_level": "mid",
+    "description": "Join our data science team to build ML models and drive data-driven decisions.",
+    "responsibilities": [
+      "Develop and deploy machine learning models",
+      "Analyze large datasets to extract insights",
+      "Collaborate with engineering to productionize models",
+      "Present findings to stakeholders"
+    ],
+    "requirements": {
+      "required_skills": [
+        "Python",
+        "Machine Learning",
+        "SQL",
+        "Statistics"
+      ],
+      "preferred_skills": [
+        "TensorFlow",
+        "PyTorch",
+        "Spark",
+        "AWS"
+      ],
+      "required_experience_years": 3,
+      "required_education": "Master's degree in Computer Science, Statistics, or related field",
+      "preferred_certifications": [],
+      "language_requirements": [
+        {
+          "language": "English",
+          "level": "Fluent"
+        }
+      ]
+    },
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "compensation_range": "$110k-$150k",
+    "benefits": [],
+    "company_name": "TechCorp Inc.",
+    "company_description": null,
+    "company_culture": null,
+    "team_description": null,
+    "growth_opportunities": [],
+    "reporting_to": null,
+    "direct_reports": null,
+    "status": "active",
+    "posted_date": "2025-11-28 10:25:57.010044",
+    "closing_date": null,
+    "created_by": null,
+    "hiring_manager": null,
+    "total_applications": 0
+  }
+]

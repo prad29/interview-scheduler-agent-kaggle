@@ -1,0 +1,55 @@
+{
+  "id": "FLUTTR01",
+  "title": "Flutter Developer - Cross Platform Applications",
+  "department": "Engineering",
+  "location": "Bangalore, India",
+  "work_location_type": "on_site",
+  "experience_level": "mid",
+  "description": "We're seeking an experienced Flutter Developer to join our dynamic engineering team and\ndrive the development of our next-generation cross-platform applications. You'll be instrumental\nin building robust, scalable solutions that serve our clients in the rapidly evolving mobility and\nEV charging sectors.\n\nAs a key member of our development team, you'll collaborate closely with fullstack developers,\nproduct managers, and UX designers to deliver exceptional user experiences across iOS,\nAndroid, and Web platforms.",
+  "responsibilities": [],
+  "requirements": {
+    "required_skills": [
+      "Design and develop cross-platform mobile applications using Flutter, focusing on delivering high-quality, responsive, and user-friendly experiences.",
+      "Collaborate closely with cross-functional teams, including designers and product managers, to translate project requirements into actionable development tasks.",
+      "Optimize mobile applications for maximum performance and compatibility across various platforms, including iOS and Android and Web Apps",
+      "Develop feature-rich applications for mobility and EV charging ecosystem stakeholders",
+      "Implement real-time data synchronization for charging station management and fleet",
+      "operations",
+      "Troubleshoot and resolve issues related to app performance, functionality, and integration, ensuring a seamless user experience",
+      "Write maintainable, testable, and well-documented code following industry best practices"
+    ],
+    "preferred_skills": [
+      "Flutter",
+      "iOS",
+      "Android",
+      "Web",
+      "Dart",
+      "RESTful APIs",
+      "Bloc/Cubit,",
+      "Provider,",
+      "Riverpod"
+    ],
+    "required_experience_years": 4,
+    "required_education": "Bachelor's in Computer Science and Related Field"
+  },
+  "salary_min": 100000,
+  "salary_max": 150000,
+  "salary_currency": "INR",
+  "compensation_range": "$100,000-$150,000",
+  "company_culture": {
+    "values": [
+      "Collaboration",
+      "Innovation",
+      "Ownership",
+      "High Agency"
+    ],
+    "work_style": "Fast Paced",
+    "pace": "Fast-paced",
+    "innovation_focus": true,
+    "collaboration_level": "high",
+    "hierarchy": "flat",
+    "mission_driven": true
+  },
+  "status": "active",
+  "created_at": "2025-11-28T15:06:38.393460"
+}

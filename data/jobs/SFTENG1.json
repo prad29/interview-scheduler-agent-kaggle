@@ -1,0 +1,64 @@
+{
+  "id": "SFTENG1",
+  "title": "Fullstack Developer",
+  "department": "Engineering",
+  "location": "Bangalore, India",
+  "work_location_type": "on_site",
+  "experience_level": "mid",
+  "description": "You will own and build the end-to-end web / mobile stack for our EV charging / mobility platform.\nYou\u2019ll work in a cross-functional team, integrate with B2B partners, build APIs, ensure security,\nand deliver reliable experiences to both web and app users. Your work will directly impact how\nfleets, charge point operators, and drivers use our platform.",
+  "responsibilities": [
+    "Design, build, test, deploy, and maintain full-stack features (frontend + backend)",
+    "Build and consume REST / GraphQL APIs, integrating with B2B / partner systems",
+    "(charge controller APIs, telematics, payment gateways)",
+    "Work on geospatial / mapping / location-based services (e.g. station discovery, routing)",
+    "Handle user authentication, authorization flows, security, encryption",
+    "Implement caching, performance optimization, scaling for high usage / spikes",
+    "Work closely with mobile app (Flutter) teams",
+    "Maintain CI/CD pipelines, automations, environment configuration",
+    "Ensure code quality, test coverage, maintainability, code reviews"
+  ],
+  "requirements": {
+    "required_skills": [
+      "Node.js",
+      "Express.js",
+      "TypeScript",
+      "TLS / HTTPS encryption best practices",
+      "REST APIs, validating inputs, XSS, CSRF mitigation",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis / AWS ElastiCache",
+      "React.js"
+    ],
+    "preferred_skills": [
+      "Node.js",
+      "Express.js",
+      "TypeScript",
+      "TLS / HTTPS encryption best practices",
+      "REST APIs, validating inputs, XSS, CSRF mitigation",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis / AWS ElastiCache",
+      "React.js"
+    ],
+    "required_experience_years": 2,
+    "required_education": "Bachelor's Degree in Computer Science or Related Field"
+  },
+  "salary_min": 100000,
+  "salary_max": 150000,
+  "salary_currency": "INR",
+  "compensation_range": "$100,000-$150,000",
+  "company_culture": {
+    "values": [
+      "Innovation",
+      "Collaboration"
+    ],
+    "work_style": "Collaborative",
+    "pace": "Fast-paced",
+    "innovation_focus": true,
+    "collaboration_level": "high",
+    "hierarchy": "moderate",
+    "mission_driven": true
+  },
+  "status": "active",
+  "created_at": "2025-11-28T11:01:06.952191"
+}

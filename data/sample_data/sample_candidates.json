@@ -1,0 +1,240 @@
+[
+  {
+    "id": "candidate_001",
+    "personal_info": {
+      "name": "John Doe",
+      "email": "john.doe@email.com",
+      "phone": "+1-555-0123",
+      "location": "San Francisco, CA",
+      "linkedin": "https://linkedin.com/in/johndoe",
+      "github": "https://github.com/johndoe",
+      "portfolio": null
+    },
+    "work_experience": [
+      {
+        "company": "Tech Innovations LLC",
+        "role": "Senior Software Engineer",
+        "start_date": "2020-01",
+        "end_date": "Present",
+        "duration_months": 60,
+        "location": "San Francisco, CA",
+        "responsibilities": [
+          "Led development of microservices architecture serving 1M+ users",
+          "Mentored team of 5 junior engineers",
+          "Designed and implemented CI/CD pipeline reducing deployment time by 60%"
+        ],
+        "achievements": [
+          "Reduced API latency by 40%",
+          "Implemented auto-scaling reducing infrastructure costs by 30%"
+        ],
+        "technologies": [
+          "Python",
+          "AWS",
+          "Docker",
+          "Kubernetes",
+          "PostgreSQL",
+          "Redis"
+        ],
+        "is_current": true
+      },
+      {
+        "company": "StartupXYZ",
+        "role": "Software Engineer",
+        "start_date": "2018-06",
+        "end_date": "2019-12",
+        "duration_months": 18,
+        "location": "San Francisco, CA",
+        "responsibilities": [
+          "Developed REST APIs using Python/Flask",
+          "Built frontend components with React"
+        ],
+        "achievements": [],
+        "technologies": [
+          "Python",
+          "React",
+          "MongoDB",
+          "AWS"
+        ],
+        "is_current": false
+      }
+    ],
+    "education": [
+      {
+        "institution": "Massachusetts Institute of Technology",
+        "degree": "Bachelor of Science",
+        "field_of_study": "Computer Science",
+        "graduation_date": "2018-05",
+        "gpa": 3.85,
+        "honors": [
+          "Dean's List",
+          "Summa Cum Laude"
+        ],
+        "relevant_coursework": []
+      }
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Microservices",
+      "React",
+      "PostgreSQL",
+      "Redis",
+      "CI/CD",
+      "Git",
+      "Agile"
+    ],
+    "certifications": [],
+    "languages": [],
+    "projects": [
+      {
+        "name": "Open Source Container Orchestration Tool",
+        "description": "Contributed to popular Kubernetes tooling",
+        "role": null,
+        "start_date": null,
+        "end_date": null,
+        "technologies": [
+          "Go",
+          "Kubernetes"
+        ],
+        "url": null,
+        "highlights": []
+      }
+    ],
+    "publications": [],
+    "awards": [],
+    "volunteering": [],
+    "resume_path": "/path/to/resume1.pdf",
+    "resume_filename": "john_doe_resume.pdf",
+    "created_at": "2025-11-28 10:25:57.014105",
+    "updated_at": "2025-11-28 10:25:57.014107",
+    "total_years_experience": null
+  },
+  {
+    "id": "candidate_002",
+    "personal_info": {
+      "name": "Jane Smith",
+      "email": "jane.smith@email.com",
+      "phone": "+1-555-0124",
+      "location": "Oakland, CA",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "work_experience": [
+      {
+        "company": "Digital Solutions Inc",
+        "role": "Software Developer",
+        "start_date": "2021-03",
+        "end_date": "Present",
+        "duration_months": 44,
+        "location": null,
+        "responsibilities": [
+          "Developed backend services using Python",
+          "Worked with Docker containers"
+        ],
+        "achievements": [],
+        "technologies": [
+          "Python",
+          "Docker",
+          "MySQL",
+          "Git"
+        ],
+        "is_current": true
+      }
+    ],
+    "education": [
+      {
+        "institution": "State University",
+        "degree": "Bachelor of Science",
+        "field_of_study": "Software Engineering",
+        "graduation_date": "2021-05",
+        "gpa": 3.5,
+        "honors": [],
+        "relevant_coursework": []
+      }
+    ],
+    "skills": [
+      "Python",
+      "Docker",
+      "MySQL",
+      "Git",
+      "Linux",
+      "CI/CD"
+    ],
+    "certifications": [],
+    "languages": [],
+    "projects": [],
+    "publications": [],
+    "awards": [],
+    "volunteering": [],
+    "resume_path": "/path/to/resume2.pdf",
+    "resume_filename": "jane_smith_resume.pdf",
+    "created_at": "2025-11-28 10:25:57.014160",
+    "updated_at": "2025-11-28 10:25:57.014161",
+    "total_years_experience": null
+  },
+  {
+    "id": "candidate_003",
+    "personal_info": {
+      "name": "Bob Johnson",
+      "email": "bob.johnson@email.com",
+      "phone": "+1-555-0125",
+      "location": "Austin, TX",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "work_experience": [
+      {
+        "company": "Local Tech Co",
+        "role": "Junior Developer",
+        "start_date": "2022-06",
+        "end_date": "Present",
+        "duration_months": 30,
+        "location": null,
+        "responsibilities": [
+          "Fixed bugs in legacy codebase",
+          "Wrote unit tests"
+        ],
+        "achievements": [],
+        "technologies": [
+          "Java",
+          "Spring",
+          "MySQL"
+        ],
+        "is_current": true
+      }
+    ],
+    "education": [
+      {
+        "institution": "Community College",
+        "degree": "Associate Degree",
+        "field_of_study": "Computer Programming",
+        "graduation_date": "2022-05",
+        "gpa": null,
+        "honors": [],
+        "relevant_coursework": []
+      }
+    ],
+    "skills": [
+      "Java",
+      "Spring",
+      "MySQL",
+      "Git"
+    ],
+    "certifications": [],
+    "languages": [],
+    "projects": [],
+    "publications": [],
+    "awards": [],
+    "volunteering": [],
+    "resume_path": "/path/to/resume3.pdf",
+    "resume_filename": "bob_johnson_resume.pdf",
+    "created_at": "2025-11-28 10:25:57.014197",
+    "updated_at": "2025-11-28 10:25:57.014197",
+    "total_years_experience": null
+  }
+]
