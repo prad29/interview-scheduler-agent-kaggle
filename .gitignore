@@ -51,3 +51,22 @@ token.json
 # OS
 .DS_Store
 Thumbs.db
+
+# Python
+*.pickle
+*.pkl
+__pycache__/
+*.pyc
+
+# Credentials
+credentials.json
+token.json
+.env
+*.key
+*.pem
+
+# IDE
+.vscode/
+.idea/token.pickle
+credentials.json # Also ignore credentials if you have it
+*.pickle # Ignore all pickle files
