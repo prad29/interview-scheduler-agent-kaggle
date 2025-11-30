@@ -355,7 +355,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For issues, questions, or feature requests:
 - Create an issue on GitHub
-- Check the [CLAUDE.md](CLAUDE.md) file for development guidance
 - Review [STREAMLIT_UPLOAD_FIXED.md](STREAMLIT_UPLOAD_FIXED.md) for troubleshooting
 
 ---
